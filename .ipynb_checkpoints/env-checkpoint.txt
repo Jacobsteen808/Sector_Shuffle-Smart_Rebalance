@@ -1,0 +1,3 @@
+nasdaq_api_key = kRm2qVzWuJdap8Bj6TRd
+alpaca_api_key_secret = L24B4xVQHbTchV72X4uNNHUMrFKqSQhX8JUm1hPm
+alpaca_api_key = PKU4D47UORBINB59RIRL
